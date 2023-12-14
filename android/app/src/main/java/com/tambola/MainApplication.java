@@ -1,4 +1,4 @@
-package com.tambola;
+package com.studentloan;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

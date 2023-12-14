@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.tambola"
+    namespace "com.studentloan"
     defaultConfig {
-        applicationId "com.tambola"
+        applicationId "com.studentloan"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
